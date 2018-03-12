@@ -13,3 +13,5 @@
 ## external user jira pull request
 
 ## visibility from jira after commit changes from github
+
+## jira commit test
